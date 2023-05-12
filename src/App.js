@@ -36,8 +36,8 @@ function App() {
   return (
     <div className="App">
       <h1>To do or not to do?</h1>
-      <h2>The dreaded honey-dew list ⬇️ </h2>
-      <br />
+      <h2>Make a list of stuff you gotta do today ⬇️ </h2>
+      {/* <br /> */}
       <h1>🧐👇</h1>
       <br />
       <div>
